@@ -1,5 +1,3 @@
-# gotojail
-game
 <!doctype html>
 <html lang="ja">
 <head>
